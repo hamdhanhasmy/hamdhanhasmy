@@ -1,6 +1,5 @@
 <div align="center">
-
-# Hi 👋 I'm Hamsey
+📌 Mini Hackathon 2026 Submission: AgriQuota Repository -> https://github.com/hamdhanhasmy/AgriQuota
 
 ---
 
