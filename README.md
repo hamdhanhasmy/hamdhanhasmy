@@ -1,97 +1,31 @@
-# Hi, I'm Hamdhan Hasmy 👋
+```md
+# Hi, I'm Hamdhan👋
 
 ### AI & Machine Learning Undergraduate | Full-Stack Developer | Building AI-Powered Business Solutions
 
-I'm an undergraduate specializing in **Artificial Intelligence, Machine Learning, and Software Engineering**, with a strong interest in building practical systems that solve real-world business problems.
+I'm an undergraduate passionate about building practical solutions using **Artificial Intelligence, Machine Learning, Software Engineering, and Full-Stack Development**.
 
-I enjoy working on everything from **AI agents and predictive analytics** to **full-stack applications, automation systems, and intelligent business tools**.
-
----
-
-## 🚀 What I'm Working On
-
-- 🤖 Building AI-powered applications and intelligent agents
-- 📊 Developing machine learning and forecasting systems
-- 🌐 Creating full-stack web applications
-- ⚙️ Automating business workflows using AI
-- 🧠 Exploring LLMs, RAG, MCP, AI Agents, and MLOps
+I enjoy turning real-world problems into intelligent systems, automation tools, and data-driven applications.
 
 ---
 
-## ⭐ Featured Projects
+## 👨‍💻 About Me
 
-### 🛍️ [Kapruka AI Shopping Agent](https://github.com/hamdhanhasmy/kapruka-ai-shopping-agent)
-
-An intelligent AI shopping assistant designed to help users discover and purchase products using natural language.
-
-**Highlights:**
-- AI-powered conversational shopping
-- Google Gemini integration
-- Model Context Protocol (MCP)
-- Product search and recommendation
-- Budget-aware shopping
-- Logistics and delivery logic
-- Full-stack architecture
-
-**Tech:** `Next.js` `Node.js` `Express` `Gemini AI` `MCP` `JavaScript`
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**
+- 🌐 Building **full-stack web applications**
+- 📊 Exploring **predictive analytics and forecasting**
+- ⚙️ Interested in **business automation and intelligent systems**
+- 🧠 Currently learning more about **LLMs, AI Agents, RAG, MCP, and MLOps**
+- 🚀 Always interested in building products that solve real-world problems
 
 ---
 
-### 📈 [AI-Powered Demand Forecasting System](https://github.com/hamdhanhasmy/AI-Powered-Demand-Forecasting-System)
+## 🚀 Featured Projects
 
-A machine learning system designed to forecast product demand and support better inventory planning.
-
-**Highlights:**
-- Demand forecasting
-- Historical sales analysis
-- Machine learning pipelines
-- Inventory insights
-- Business-focused analytics
-
-**Tech:** `Python` `Machine Learning` `Pandas` `Scikit-learn` `Data Analytics`
-
----
-
-### 🤖 [Automated Python Blogger](https://github.com/hamdhanhasmy/automated-python-blogger-system)
-
-An automated AI content generation and publishing workflow powered by Python and Generative AI.
-
-**Highlights:**
-- Automated content generation
-- Gemini AI integration
-- Scheduled automation
-- API integrations
-- GitHub Actions workflow
-
-**Tech:** `Python` `Gemini AI` `REST APIs` `GitHub Actions`
-
----
-
-### 🧠 [Brain Tumor Classification](https://github.com/hamdhanhasmy/brain_tumor_classification)
-
-A deep-learning project for classifying brain MRI images using multiple transfer-learning architectures.
-
-**Models Explored:**
-- ResNet50
-- MobileNetV2
-- DenseNet121
-- EfficientNetB0
-- InceptionV3
-- VGG16
-
-**Tech:** `Python` `TensorFlow` `Deep Learning` `Computer Vision` `Transfer Learning`
-
----
-
-### 🌱 [AgriQuota](https://github.com/hamdhanhasmy/AgriQuota)
-
-An AI-oriented agricultural technology concept focused on improving data-driven agricultural planning and decision-making.
-
-**Focus Areas:**
-- AgriTech
-- AI-assisted decision making
-- Data-driven agriculture
-- Smart resource planning
+- 🛍️ [Kapruka AI Shopping Agent](https://github.com/hamdhanhasmy/kapruka-ai-shopping-agent)
+- 📈 [AI-Powered Demand Forecasting System](https://github.com/hamdhanhasmy/AI-Powered-Demand-Forecasting-System)
+- 🤖 [Automated Python Blogger](https://github.com/hamdhanhasmy/automated-python-blogger-system)
+- 🧠 [Brain Tumor Classification](https://github.com/hamdhanhasmy/brain_tumor_classification)
 
 ---
 
@@ -99,55 +33,99 @@ An AI-oriented agricultural technology concept focused on improving data-driven 
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+</p>
 
 ### AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
 ### Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-### Tools & Platforms
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
 ---
 
-## 🧩 Areas I'm Exploring
+## 🧩 Currently Exploring
 
-```text
-Generative AI
-AI Agents
-Large Language Models
-Retrieval-Augmented Generation (RAG)
-Model Context Protocol (MCP)
-Predictive Analytics
-Computer Vision
-Business Automation
-MLOps
+`Generative AI` • `AI Agents` • `LLMs` • `RAG` • `MCP` • `MLOps` • `Computer Vision` • `Business Automation`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamdhanhasmy&show_icons=true&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamdhanhasmy&layout=compact&hide_border=true" height="165"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to discussing **AI, Machine Learning, Software Engineering, startup ideas, collaborations, and internship opportunities**.
+
+<p>
+  <a href="https://www.hamdhan.com">
+    <img src="https://img.shields.io/badge/Website-hamdhan.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/hamdhanhasmy/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:contact.hamdhan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+### 📬 Contact
+
+- 🌐 **Website:** [www.hamdhan.com](https://www.hamdhan.com)
+- 💼 **LinkedIn:** [linkedin.com/in/hamdhanhasmy](https://www.linkedin.com/in/hamdhanhasmy/)
+- 📧 **Email:** [contact.hamdhan@gmail.com](mailto:contact.hamdhan@gmail.com)
+- 💻 **GitHub:** [github.com/hamdhanhasmy](https://github.com/hamdhanhasmy)
+
+---
+
+> 💡 Building intelligent systems that solve practical problems.
+```
