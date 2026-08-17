@@ -1,6 +1,5 @@
 <div align="center">
-📌 Mini Hackathon 2026 Submission: AgriQuota Repository -> https://github.com/hamdhanhasmy/AgriQuota
-
+Hi, I'm Hamsey
 ---
 
 ### AI & Machine Learning Undergraduate | Applied Business Solutions
