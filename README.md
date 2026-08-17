@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Hamdhan👋
 
 ### AI & Machine Learning Undergraduate | Full-Stack Developer | Building AI-Powered Business Solutions
@@ -128,4 +127,3 @@ I'm always open to discussing **AI, Machine Learning, Software Engineering, star
 ---
 
 > 💡 Building intelligent systems that solve practical problems.
-```
